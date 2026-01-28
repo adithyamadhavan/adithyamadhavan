@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Data scientist with 5 years experience in Finance and Manufacturing sector.
-<br>I m currently pursing masters in Artificial Intelligence at University of Sheffield.<br>I am loooking for ML Engineer/ Data scientist roles 
+<br>I m currently pursing masters in Artificial Intelligence at University of Sheffield.<br>I am looking for ML Engineer/ Data scientist roles 
 
 
 ## 🌐 Socials:
